@@ -11,4 +11,4 @@ Some information about you!
 I am a Data Science candidate who is very interested in exploring history with data. My industry background includes hospitality and municipal parking.
 ### Contact me
 
-[calla1j@gmail.com.com](mailto:calla1j@gmail.com.com)
+[calla1j@gmail.com.com](mailto:calla1j@gmail.com)
